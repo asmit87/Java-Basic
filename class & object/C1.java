@@ -1,9 +1,9 @@
-class student {
+public class C1 {
+static class student {
     int rollNo;
     String studentName;
 }
 
-public class C1 {
     public static void main(String[] args) {
         student obj1 = new student();
         obj1.rollNo = 101;
